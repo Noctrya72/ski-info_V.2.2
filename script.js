@@ -5,7 +5,7 @@ const stations = {
             lon: 6.122,
             url: "https://www.les2alpes.com",
             webcam: "https://www.les2alpes.com/webcams",
-            plan: "https://www.les2alpes.com/domaine-skiable"
+            plan: "https://www.skipass-2alpes.com/media/download/dalb2c/cms/media/PLANS/Plan_hiver_Les2Alpes_AEON.pdf"
         },
 
         "Avoriaz": {
@@ -13,7 +13,7 @@ const stations = {
             lon: 6.777,
             url: "https://www.avoriaz.com",
             webcam: "https://www.avoriaz.com/hiver/webcams",
-            plan: "https://www.avoriaz.com/hiver/plan-des-pistes"
+            plan: "https://www.portesdusoleil.com/app/uploads/lesportesdusoleil/2025/10/PDS_PLAN_HIVER_656x396_AVORIAZ_WEB.pdf"
         },
 
         "Morzine": {
@@ -21,7 +21,7 @@ const stations = {
             lon: 6.707,
             url: "https://www.morzine-avoriaz.com",
             webcam: "https://www.morzine-avoriaz.com/webcams",
-            plan: "https://www.morzine-avoriaz.com/plan-des-pistes"
+            plan: "https://pass.lesgets.com/wp-content/uploads/2025/10/SoleGets-PlanPistesH2025-2026.pdf"
         },
 
         "Les Gets": {
@@ -29,7 +29,7 @@ const stations = {
             lon: 6.664,
             url: "https://www.lesgets.com",
             webcam: "https://www.lesgets.com/webcams",
-            plan: "https://www.lesgets.com/plan-des-pistes"
+            plan: "https://pass.lesgets.com/wp-content/uploads/2025/10/SoleGets-PlanPistesH2025-2026.pdf"
         },
 
         "Flaine": {
@@ -37,7 +37,7 @@ const stations = {
             lon: 6.694,
             url: "https://www.flaine.com",
             webcam: "https://www.flaine.com/webcams",
-            plan: "https://www.flaine.com/plan-des-pistes"
+            plan: "https://www.flaine.com/wp-content/uploads/2025/11/GM_PlanPistes_25_26_HD.pdf"
         },
 
         "Samoëns": {
@@ -45,7 +45,7 @@ const stations = {
             lon: 6.726,
             url: "https://www.samoens.com",
             webcam: "https://www.samoens.com/webcams",
-            plan: "https://www.samoens.com/plan-des-pistes"
+            plan: "https://www.grand-massif.com/content/uploads/2025/12/GM_PlanPistes-1.pdf"
         },
 
         "Le Grand-Bornand": {
@@ -53,7 +53,7 @@ const stations = {
             lon: 6.427,
             url: "https://www.legrandbornand.com",
             webcam: "https://www.legrandbornand.com/webcams",
-            plan: "https://www.legrandbornand.com/plan-des-pistes"
+            plan: "https://www.legrandbornand.com/app/uploads/legrandbornand/2025/06/Plan-pistes-ski-alpin_24-25.pdf"
         },
 
         "Alpe d'Huez": {
@@ -99,7 +99,7 @@ const stations = {
             lon: 6.617,
             url: "https://www.megeve.com",
             webcam: "https://www.megeve.com/webcams",
-            plan: "https://www.megeve.com/domaine-skiable"
+            plan: "https://www.datocms-assets.com/146703/1734512761-plan_megeve_hiver.pdf?dl=plan_megeve_hiver.pdf"
         },
 
         "Courchevel": {
@@ -140,7 +140,23 @@ const stations = {
             url: "https://www.laclusaz.com",
             webcam: "https://www.laclusaz.com/webcams",
             plan: "https://www.laclusaz.com/ski/plan-des-pistes/"
-        }
+        },
+
+        "Alpe du Grand Serre": {
+            lat: 45.124,
+            lon: 5.514,
+            url: "https://www.matheysine-tourisme.com/fr/alpedugrandserre/",
+            webcam: "https://www.matheysine-tourisme.com/fr/alpedugrandserre/webcams/",
+            plan: "https://media.matheysine-tourisme.com/filer_public/7d/9b/7d9bc29b-9406-4330-b06f-970ada3dd32e/web_skirando_alpegrandserre.pdf",
+        },
+
+        "Chamrousse": {    
+            lat: 45.036,
+            lon: 5.523,
+            url: "https://www.chamrousse.com/hiver",
+            webcam: "https://www.chamrousse.com/webcams.html",
+            plan: "https://www.chamrousse.com/medias/images/info_pages/plan-domaine-alpin-ski-et-luge-park-chamrousse-2025-2026-basse-definition-bd-3365.pdf",
+        },
     },
 
     Pyrénées: {
