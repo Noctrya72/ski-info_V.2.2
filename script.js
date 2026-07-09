@@ -206,6 +206,22 @@ const stations = {
             plan: "https://www.orcieres.com/app/uploads/orcieres/2025/09/Plan_des_pistes_Orcieres_2024_2025.pdf",
         },
 
+        "Pralognan-la-Vanoise": {
+            lat: 45.380867,
+            lon: 6.722864,
+            url: "https://www.pralognan.com/",
+            webcam: "https://www.pralognan.com/webcams/",
+            plan: "https://piste-maps.co.uk/pistemaps/France/Pralognan-La-Vanoise-Piste-Ski-Map-2024-25.pdf",
+        },
+
+        "Valmorel": {
+            lat: 45.459142,
+            lon: 6.443286,
+            url: "https://www.valmorel.com/",
+            webcam: "https://www.valmorel.com/webcams/",
+            plan: "https://skipass.valmorel.com/media/download/valmorelb2c/cms/media/HIVER/Plan%20des%20pistes/plan%20des%20pistes%2025-26%20complet.pdf",
+        },
+    
     },
 
     Pyrénées: {
@@ -232,6 +248,7 @@ const stations = {
             webcam: "https://peyragudes.com/webcams-live/",
             plan: "https://peyragudes.com/wp-content/uploads/2024/04/Plan-des-pistes-compresse-peyragudes-ALPIN-2023-2024_0.pdf",
         },
+
     },
 };
 
