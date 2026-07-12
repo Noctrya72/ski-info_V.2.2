@@ -414,6 +414,14 @@ const stations = {
             webcam: "https://www.guzet.ski/fr/webcam",
             plan: "https://abonnement.guzet.ski/media/upload/guzetppu/cms/media/base_station/Plan%20pistes%20-%20Guzet_compressed.pdf",
         },
+
+        "": {
+            lat: 42.768233,
+            lon: 0.577381,
+            url: "",
+            webcam: "",
+            plan: "",
+        },
     },
 
     Jura: {
