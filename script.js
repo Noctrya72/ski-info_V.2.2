@@ -373,24 +373,6 @@ const stations = {
             webcam: "https://www.villarddelans-correnconenvercors.com/live/webcams-2/",
             plan: "https://www.calameo.com/read/0009329366bfa1850172f",
         },
-
-        "": {
-            lat: _,
-            lon: _,
-            url: "",
-            webcam: "",
-            plan: "",
-        },
-
-        "": {
-            lat: _,
-            lon: _,
-            url: "",
-            webcam: "",
-            plan: "",
-        },
-
-
     },
 
     Pyrénées: {
